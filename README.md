@@ -240,7 +240,7 @@ These are used for terminating the waveguide systems operating at low average po
 <img width="260" height="248" alt="image" src="https://github.com/user-attachments/assets/0579bf9a-882f-4873-899d-0915e9cef5c0" />
 
  
-
+ 
 ### 13.	W/g Coaxial Adaptor:
 These adapters consist of a short section of waveguide with a probe transition coax mounted on broad wall. It transforms waveguides impedance into coaxial impedance. Power can be transmitted in either direction. Each adaptor covers 50% of the waveguide band.
 
